@@ -1,0 +1,12 @@
+{
+  "name": "electron_test",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/katarzynakrysinska/electron_test.git",
+  "author": "Katarzyna Krysińska <katarzyna.krysinska@onet.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "@kasik182/randomid-generator": "^1.0.0",
+    "@kasik182/randomid-generator2": "^1.0.0"
+  }
+}
